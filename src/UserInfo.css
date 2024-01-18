@@ -1,0 +1,53 @@
+/* UserInfo.css */
+.user-info-container {
+    text-align: center;
+    background-color: #e74c3c;
+    color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+  }
+  
+  .user-info-item {
+    background-color: #ffffff;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-info-text {
+    color: #333333;
+  }
+  
+  .search-label {
+    margin-right: 10px;
+  }
+  
+  .search-input {
+    padding: 8px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .search-button, .sort-button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border: none;
+    border-radius: 4px;
+    margin-top: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .search-button:hover, .sort-button:hover {
+    background-color: #c0392b;
+  }
+  
+  .history-item {
+    margin-top: 5px;
+  }
+  
